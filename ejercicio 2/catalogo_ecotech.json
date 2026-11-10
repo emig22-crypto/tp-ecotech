@@ -1,0 +1,13 @@
+[
+    {
+        "modelo": "Termostato-Smart",
+        "precio": 350.0,
+        "stock": 10
+    },
+    {
+        "modelo": "SolarMax-500",
+        "precio": 1200.0,
+        "stock": 8,
+        "potencia_watts": 500
+    }
+]
